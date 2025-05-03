@@ -1,3 +1,4 @@
+# BMI Calculator / by atsushi-dayo
 def calculate_bmi(weight, height):
     """
     Function to calculate BMI
